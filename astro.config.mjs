@@ -7,7 +7,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://dveljovic.github.io',
+    site: 'https://daniloveljovic.github.io/',
 	base: '/personal-blog', 
   integrations: [
     tailwind({
